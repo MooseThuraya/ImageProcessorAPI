@@ -26,6 +26,17 @@ To use ImageProcessorAPI, upload an image and select the desired transformations
 Here are some images demonstrating the various transformations that ImageProcessorAPI supports:
 
 ![Resize Transformation](images/MainPage.png)
+
+Upload the image and enter the operations:
+
+        Operations format:
+        Note: frequency is an integer [0,10]
+        - Flip: flip + 'vertical' or 'horizontal' + frequency
+        - Rotate: rotate + 'left' or 'right' or '+/-degrees' + frequency
+        - Resize: resize + width + height
+        - Grayscale: grayscale
+        - Thumbnail: thumbnail
+
 ![Flip Transformation](images/selectimage2.png)
 ![Rotate Transformation](images/statuscodes.png)
 ![Grayscale Transformation](images/result.png)
