@@ -1,4 +1,4 @@
-# ImageProcessorAPI
+# ImageProcessorAPI (Feb. 2022 - Mar. 2022)
 
 A personal project to practice developing APIs, ImageProcessorAPI provides a platform to perform transformations on uploaded images. The API ensures privacy and security of the images and does not save the images on the server side.
 
