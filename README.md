@@ -21,17 +21,14 @@ ImageProcessorAPI is built using the following technologies:
 
 To use ImageProcessorAPI, upload an image and select the desired transformations to perform. The API will take care of the rest.
 
-![Upload Image](image_url_1)
-
-## Demonstration
+## Demo
 
 Here are some images demonstrating the various transformations that ImageProcessorAPI supports:
 
-![Resize Transformation](image_url_2)
-![Flip Transformation](image_url_3)
-![Rotate Transformation](image_url_4)
-![Grayscale Transformation](image_url_5)
-![Thumbnail Transformation](image_url_6)
+![Resize Transformation](images/MainPage.png)
+![Flip Transformation](images/selectimage2.png)
+![Rotate Transformation](images/statuscodes.png)
+![Grayscale Transformation](images/result.png)
 
 ## Note
 
